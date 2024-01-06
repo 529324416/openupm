@@ -13,6 +13,6 @@ topics:
 hunter: '529324416'
 gitTagPrefix: ''
 gitTagIgnore: ''
-minVersion: ''
+minVersion: '2018.3'
 readme: main:README.md
 createdAt: 1704527222061
